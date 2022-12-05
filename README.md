@@ -16,7 +16,7 @@ A very simple spyware I wrote in Python which takes screenshots, webcam pictures
 
 
 # Working On:
-- Nothing
+- A discord bot RAT (Remote Administrator Tool) in python 3
 
 
 # Ideas for projects
