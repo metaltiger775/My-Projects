@@ -4,6 +4,16 @@ A list of my upcoming projects. Feel free to give me some ideas. I NEED IDEAS!!!
 
 # Finished Projects
 
+## Discord Rat
+https://github.com/metaltiger775/Discord-Rat
+
+A simple discord bot RAT (Remote Administrator Tool) I made using python 3 because I have nothing else to do in my life lol.
+
+## A script to remove comments from python files
+https://github.com/metaltiger775/Remove-Python-Comments
+
+A little script I use to remove comments from a python file when posting it on github
+
 ## Discord Webhook Trojan
 https://github.com/metaltiger775/Discord-Webhook-Trojan
 
@@ -16,7 +26,7 @@ A very simple spyware I wrote in Python which takes screenshots, webcam pictures
 
 
 # Working On:
-- A discord bot RAT (Remote Administrator Tool) in python 3
+- Nothing
 
 
 # Ideas for projects
